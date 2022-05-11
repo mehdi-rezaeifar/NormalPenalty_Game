@@ -12,6 +12,5 @@
 
 اگه مثل تصویر زیر باختی میتونی دوباره بازی کنی پس امیدت رو از دست نده واینبار با یه نفس عمیق ضربه بزن
 
-![penalt](https://user-images.githubusercontent.com/100312928/167729992-a48b5633-34d0-4fce-8466-4c09a3a0a1d9.png)
+![121](https://user-images.githubusercontent.com/100312928/167825613-d47f3a34-fab8-4974-9cf4-abf060c641d6.png)
 
-just for :)
