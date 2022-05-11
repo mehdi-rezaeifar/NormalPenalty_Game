@@ -17,3 +17,22 @@ C:\Users\ASUS-GL552VW\source\repos\Penalty Game\Penalty Game\obj\Debug\net5.0-wi
 C:\Users\ASUS-GL552VW\source\repos\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\ref\Penalty Game.dll
 C:\Users\ASUS-GL552VW\source\repos\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.pdb
 C:\Users\ASUS-GL552VW\source\repos\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.genruntimeconfig.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\bin\Debug\net5.0-windows\Penalty Game.exe
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\bin\Debug\net5.0-windows\Penalty Game.deps.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\bin\Debug\net5.0-windows\Penalty Game.runtimeconfig.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\bin\Debug\net5.0-windows\Penalty Game.runtimeconfig.dev.json
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\bin\Debug\net5.0-windows\Penalty Game.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\bin\Debug\net5.0-windows\ref\Penalty Game.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\bin\Debug\net5.0-windows\Penalty Game.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty_Game.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty_Game.Properties.Resources.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.AssemblyInfoInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.AssemblyInfo.cs
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\ref\Penalty Game.dll
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\Penalty Game\Penalty Game\obj\Debug\net5.0-windows\Penalty Game.genruntimeconfig.cache

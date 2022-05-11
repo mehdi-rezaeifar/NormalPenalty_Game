@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS-GL552VW\\source\\repos\\Penalty Game\\Penalty Game\\Penalty Game.csproj": {}
+    "C:\\Users\\ASUS-GL552VW\\source\\repos\\بازی سازی\\Penalty Game\\Penalty Game\\Penalty Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS-GL552VW\\source\\repos\\Penalty Game\\Penalty Game\\Penalty Game.csproj": {
+    "C:\\Users\\ASUS-GL552VW\\source\\repos\\بازی سازی\\Penalty Game\\Penalty Game\\Penalty Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS-GL552VW\\source\\repos\\Penalty Game\\Penalty Game\\Penalty Game.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS-GL552VW\\source\\repos\\بازی سازی\\Penalty Game\\Penalty Game\\Penalty Game.csproj",
         "projectName": "Penalty Game",
-        "projectPath": "C:\\Users\\ASUS-GL552VW\\source\\repos\\Penalty Game\\Penalty Game\\Penalty Game.csproj",
+        "projectPath": "C:\\Users\\ASUS-GL552VW\\source\\repos\\بازی سازی\\Penalty Game\\Penalty Game\\Penalty Game.csproj",
         "packagesPath": "C:\\Users\\ASUS-GL552VW\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS-GL552VW\\source\\repos\\Penalty Game\\Penalty Game\\obj\\",
+        "outputPath": "C:\\Users\\ASUS-GL552VW\\source\\repos\\بازی سازی\\Penalty Game\\Penalty Game\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
